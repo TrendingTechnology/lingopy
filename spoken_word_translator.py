@@ -246,7 +246,7 @@ while True:
 	print("Translating...")
 	animation = "|/-\\|/-\\"
 	idx = 0
-	while idx < 6:
+	while idx < 11:
 	    print(animation[idx % len(animation)], end="\r")
 	    idx += 1
 	    time.sleep(0.3)
