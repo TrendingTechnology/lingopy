@@ -10,7 +10,8 @@ Welcome to lingopy, the quick and easy way to translate text or audio files into
 
 ## Project compatibility & Expansion
 
-If you would like to translate audio books, YouTube videos or Zoom meetings, check out my project 'A2T_converter' to first transcribe them into text files. These text files can then be translated by the software provided in this repository.
+If you would like to translate audio books, YouTube videos or Zoom meetings, check out my project 'A2T_converter' to first transcribe them into text files. These text files can then be translated by the software provided in this repository.  
+The same approach is required if you want your translations to be read out loudly. Translate them using this project and then use the 'text_2_speech' module from the repository 'A2T_converter'.
 
 ## Languages
   
