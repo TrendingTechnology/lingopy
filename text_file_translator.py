@@ -8,47 +8,47 @@ import time
 banner = r'''
 
 
- ``````` ```` `` ```` ``````` ```` ``````` ```` ``````` ```` ``````` ```` `` ```
- ``````` ```` `` ```` ``````` ```` ``````` ```` ``````` ```` ``````` ```` `` ```
-``````./ssyysyyyysyyyyyyysyyyysyyyyyyysyyys+.```````````````````````````````````
-```` +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy````` ``````` ```` ``````` ```` ``
-````-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/`````````````````````````````````
- ```:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+ ``````` ```` ``````` ```` `` ```
-````-MMMMMMMMMMMMMMMMMMMMd++sMMMMMMMMMMMMMMMMM+`````````````````````````````````
-````-MMMMMMMMMMMMMMMMMMMMy``-MMMMMMMMMMMMMMMMM+```` ```` `` ```` ``````` ```` ``
-````-MMMMMMMd```````````````````````````MMMMMM+`````````````````````````````````
- ```:MMMMMMMm++++++++++++++++++/`` +++++MMMMMM+ ``````` ```` ``````` ```` `` ```
-````-MMMMMMMMMMMMMNhsNMMMMMMMMMo``:MMMMMMMMMMM+`````````````````````````````````
-````-MMMMMMMMMMMMM/``-dMMMMMMMy```dMMMMMMMMMMM+```` ``````` ```` ``````` ```` ``
-````-MMMMMMMMMMMMMMs```+NMMMNo```hMMMMMMMMMMMM+`````````````````````````````````
- ```:MMMMMMMMMMMMMMMm:```oNy. `-mMMMMMMMMMMMMM+ ``````` ```` ``````` ```` `` ```
- ```:MMMMMMMMMMMMMMMMMh:`````.yMMMMMMMMMMMMMMM+ ``````` ```` ``````` ```` `` ```
-````-MMMMMMMMMMMMMMMMms:` ```.ohNMho/:--------.```` ``````` ```` ``````` ```` ``
-````-MMMMMMMMMMMMmy+.```-ody/` ``````-----------------------------------````` ``
-````-MMMMMMMMMMy.```.:smMMMMMNh```-hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy.`````
- ```:MMMMMMMMMMM:```/mMMMMMMMMs``-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN` ```
-````-MMMMMMMMMMh-`````oNMMMMMM+``+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-````
-````-MMMMMMMMm/```sd:``.hMMMMM+``+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-` ``
-`````NMMMMMMo```/NMMMy.``:mMMM+``+MMMMMMMMMMMMMMMMMMs...sMMMMMMMMMMMMMMMMMM-````
- `` `.yNMMh-` -dMMMMMMN+```oNM+``+MMMMMMMMMMMMMMMMMd``` `dMMMMMMMMMMMMMMMMM- ```
-````````.-``.yMMMMMMMMMMd:``.-.``+MMMMMMMMMMMMMMMMN.``-``.NMMMMMMMMMMMMMMMM-````
-```` ``````-hdddMMMMMMmddd+``` ``+MMMMMMMMMMMMMMMM: `/N-``/MMMMMMMMMMMMMMMM-` ``
-````````````````MMMMMM+``````````/NMMMMMMMMMMMMMMo``.NMd```sMMMMMMMMMMMMMMM-````
- ``````` ```` ``MMMMMM+`````` /-```+mMMMMMMMMMMMh```hMMMo```dMMMMMMMMMMMMMM- ```
-````````````````MMMMMM+```````yMh/```:hMMMMMMMMN.``+MMMMM-``.NMMMMMMMMMMMMM-````
-```` ``````` ```--:--:--:-:--:hMMMmo.` .sNMMMMM:````.....`` `/MMMMMMMMMMMMM-` ``
-```` ``````` ```.sNMMMMMMMMMMMMMMMMMMy:```+dMMo```/+++++++/ ``oMMMMMMMMMMMM-` ``
- ``````` ```` `` `.sNMMMMMMMMMMMMMMMMMN+`` `sh` `+MMMMMMMMM/ ``dMMMMMMMMMMM- ```
- ``````` ```` `` ```.sNMMMMMMMMMMMMMm+.``-sNN.` .NMMMMMMMMMN.``.NMMMMMMMMMM- ```
-``````````````````````````````yMMMh:```/hMMMNmmmNMMMMMMMMMMMNmmmNMMMMMMMMMM-````
-```` ``````` ```` ``````` ````yNs.``.omMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-` ``
-``````````````````````````````-```-yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-````
- ``````` ```` `` ```` ``````` ```/MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. ```
-``````````````````````````````````sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo`````
-```` ``````` ```` ``````` ```` `` `.+syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys/.``` ``
-````````````````````````````````````````````````````````````````````````````````
- `` ```` ```` `` ```` ```` `` ```` ```` `` ```` `` ```` ```` `` ```` ```` `` ```
-			[Sven Eschlbeck] [2021]
+	 ``````` ```` `` ```` ``````` ```` ``````` ```` ``````` ```` ``````` ```` `` ```
+	 ``````` ```` `` ```` ``````` ```` ``````` ```` ``````` ```` ``````` ```` `` ```
+	``````./ssyysyyyysyyyyyyysyyyysyyyyyyysyyys+.```````````````````````````````````
+	```` +MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy````` ``````` ```` ``````` ```` ``
+	````-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/`````````````````````````````````
+	 ```:MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+ ``````` ```` ``````` ```` `` ```
+	````-MMMMMMMMMMMMMMMMMMMMd++sMMMMMMMMMMMMMMMMM+`````````````````````````````````
+	````-MMMMMMMMMMMMMMMMMMMMy``-MMMMMMMMMMMMMMMMM+```` ```` `` ```` ``````` ```` ``
+	````-MMMMMMMd```````````````````````````MMMMMM+`````````````````````````````````
+	 ```:MMMMMMMm++++++++++++++++++/`` +++++MMMMMM+ ``````` ```` ``````` ```` `` ```
+	````-MMMMMMMMMMMMMNhsNMMMMMMMMMo``:MMMMMMMMMMM+`````````````````````````````````
+	````-MMMMMMMMMMMMM/``-dMMMMMMMy```dMMMMMMMMMMM+```` ``````` ```` ``````` ```` ``
+	````-MMMMMMMMMMMMMMs```+NMMMNo```hMMMMMMMMMMMM+`````````````````````````````````
+	 ```:MMMMMMMMMMMMMMMm:```oNy. `-mMMMMMMMMMMMMM+ ``````` ```` ``````` ```` `` ```
+	 ```:MMMMMMMMMMMMMMMMMh:`````.yMMMMMMMMMMMMMMM+ ``````` ```` ``````` ```` `` ```
+	````-MMMMMMMMMMMMMMMMms:` ```.ohNMho/:--------.```` ``````` ```` ``````` ```` ``
+	````-MMMMMMMMMMMMmy+.```-ody/` ``````-----------------------------------````` ``
+	````-MMMMMMMMMMy.```.:smMMMMMNh```-hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNy.`````
+	 ```:MMMMMMMMMMM:```/mMMMMMMMMs``-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN` ```
+	````-MMMMMMMMMMh-`````oNMMMMMM+``+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-````
+	````-MMMMMMMMm/```sd:``.hMMMMM+``+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-` ``
+	`````NMMMMMMo```/NMMMy.``:mMMM+``+MMMMMMMMMMMMMMMMMMs...sMMMMMMMMMMMMMMMMMM-````
+	 `` `.yNMMh-` -dMMMMMMN+```oNM+``+MMMMMMMMMMMMMMMMMd``` `dMMMMMMMMMMMMMMMMM- ```
+	````````.-``.yMMMMMMMMMMd:``.-.``+MMMMMMMMMMMMMMMMN.``-``.NMMMMMMMMMMMMMMMM-````
+	```` ``````-hdddMMMMMMmddd+``` ``+MMMMMMMMMMMMMMMM: `/N-``/MMMMMMMMMMMMMMMM-` ``
+	````````````````MMMMMM+``````````/NMMMMMMMMMMMMMMo``.NMd```sMMMMMMMMMMMMMMM-````
+	 ``````` ```` ``MMMMMM+`````` /-```+mMMMMMMMMMMMh```hMMMo```dMMMMMMMMMMMMMM- ```
+	````````````````MMMMMM+```````yMh/```:hMMMMMMMMN.``+MMMMM-``.NMMMMMMMMMMMMM-````
+	```` ``````` ```--:--:--:-:--:hMMMmo.` .sNMMMMM:````.....`` `/MMMMMMMMMMMMM-` ``
+	```` ``````` ```.sNMMMMMMMMMMMMMMMMMMy:```+dMMo```/+++++++/ ``oMMMMMMMMMMMM-` ``
+	 ``````` ```` `` `.sNMMMMMMMMMMMMMMMMMN+`` `sh` `+MMMMMMMMM/ ``dMMMMMMMMMMM- ```
+	 ``````` ```` `` ```.sNMMMMMMMMMMMMMm+.``-sNN.` .NMMMMMMMMMN.``.NMMMMMMMMMM- ```
+	``````````````````````````````yMMMh:```/hMMMNmmmNMMMMMMMMMMMNmmmNMMMMMMMMMM-````
+	```` ``````` ```` ``````` ````yNs.``.omMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-` ``
+	``````````````````````````````-```-yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM-````
+	 ``````` ```` `` ```` ``````` ```/MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM. ```
+	``````````````````````````````````sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMo`````
+	```` ``````` ```` ``````` ```` `` `.+syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys/.``` ``
+	````````````````````````````````````````````````````````````````````````````````
+	 `` ```` ```` `` ```` ```` `` ```` ```` `` ```` `` ```` ```` `` ```` ```` `` ```
+				[Sven Eschlbeck] [2021]
 
 
 
