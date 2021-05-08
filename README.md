@@ -120,7 +120,7 @@ Currently supported languages include:
 - Yoruba
 - Zulu
 
-Note: If your terminal output is not showing all unicode symbols (e.g. Arabic letters or Chinese signs), choose a different font for the terminal.
+Note: If your terminal output is not showing all unicode symbols (e.g. Arabic letters or Chinese signs), choose a different font for the terminal, I recommend SimSun - ExtB.
 
 ## Controls
 
