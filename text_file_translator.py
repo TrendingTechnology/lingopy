@@ -90,6 +90,8 @@ while True:
 		final_language = 'de'
 	if translation_language == '3':
 		final_language = 'it'
+	if translation_language == '':
+		final_language = 'en'
 	if translation_language == 'q':
 		break
 

@@ -115,14 +115,15 @@ while True:
 
 	print("\n-----------------------------------------------------------------------------------------------------------------------------\n")
 	question_save_trans = input("Do you want to save the translated text/ message to a text file? [y/n]\n")
+	
 	if question_save_trans == 'y':
 		print("\n-----------------------------------------------------------------------------------------------------------------------------\n")
+		# Ask for the destination folder where the text should be stored
+		destination_folder = input("Please specify the full path to the desired destination folder.\nYour entry should look like this: 'C:/User/...' but without quotes.\n")
 		# Aborting if a 'q' is given
 		if destination_folder == 'q':
 			break
-		# Ask for the destination folder where the text should be stored
-		destination_folder = input("Please specify the full path to the desired destination folder.\nYour entry should look like this: 'C:/User/...' but without quotes.\n")
-		
+
 		# Ask for the file name
 		file_name = input("\nPlease specify the desired file name.\nYour entry should look like this: 'example_file.txt' but without quotes.\n")
 		# Aborting if a 'q' is given
