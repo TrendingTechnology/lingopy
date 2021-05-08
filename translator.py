@@ -66,6 +66,10 @@ prompt2 = r"""
 Please specify the language you wish to translate to.
 
 Press '1' for French.			Press '2' for German.			Press '3' for Italian.
+Press '4' for Afrikaans.		Press '5' for Albanian.			Press '6' for Amharic.
+Press '7' for Arabic.			Press '8' for Armenian.			Press '9' for Azerbaijani.
+Press '10' for Basque.			Press '11' for Belarusian.		Press '12' for Bengali.
+Press '13' for Bosnian.			Press '14' for Bulgarian.		Press '15' for Catalan.
 
 Leave blank for default (English).
 """
@@ -87,6 +91,33 @@ while True:
 		final_language = 'de'
 	if translation_language == '3':
 		final_language = 'it'
+	if translation_language == '4':
+		final_language = 'af'
+	if translation_language == '5':
+		final_language = 'sq'
+	if translation_language == '6':
+		final_language = 'am'
+	if translation_language == '7':
+		final_language = 'ar'
+	if translation_language == '8':
+		final_language = 'hy'
+	if translation_language == '9':
+		final_language = 'az'
+	if translation_language == '10':
+		final_language = 'eu'
+	if translation_language == '11':
+		final_language = 'be'
+	if translation_language == '12':
+		final_language = 'bn'
+	if translation_language == '13':
+		final_language = 'bs'
+	if translation_language == '14':
+		final_language = 'bg'
+	if translation_language == '15':
+		final_language =  'ca'
+
+
+
 	if translation_language == 'q':
 		break
 
