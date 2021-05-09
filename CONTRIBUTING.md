@@ -15,7 +15,7 @@ I use GitHub to host code, to track issues and feature requests, as well as acce
 ## I use [Github Flow](https://guides.github.com/introduction/flow/index.html), so all code changes happen through pull requests
 Pull requests are the best way to propose changes to the codebase (I use [Github Flow](https://guides.github.com/introduction/flow/index.html)). I actively welcome your pull requests:
 
-1. Fork the repo and create your branch from `master`.
+1. Fork the repo and create your branch from `dev`.
 2. If you've added code that should be tested, add tests.
 3. If you've changed APIs, update the documentation.
 4. Ensure the test suite passes.
