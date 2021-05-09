@@ -1,4 +1,6 @@
-# lingopy
+[![Active Development](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
+# LINGOPY 
 
 Welcome to lingopy, the quick and easy way to translate text or audio files into a foreign language. If you would like to transform a recording of a speech you gave into a different language or always wanted to translate a whole text file, then this project may help you out!
 
