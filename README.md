@@ -1,5 +1,8 @@
 [![Active Development](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/sveneschlbeck/lingopy)
+![GitHub language count](https://img.shields.io/github/languages/count/sveneschlbeck/lingopy?color=pink)
+![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/lingopy?color=white)
+![GitHub search hit counter](https://img.shields.io/github/search/sveneschlbeck/lingopy/goto?color=brown)
 
 
 # LINGOPY 
