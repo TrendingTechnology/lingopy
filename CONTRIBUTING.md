@@ -8,7 +8,7 @@ I appreciate your ideas and your input! I try to make contributing to this proje
 - Proposing new features
 - Becoming a maintainer
 
-## I Develop with GitHub
+## I develop with GitHub
 
 I use GitHub to host code, to track issues and feature requests, as well as accept pull requests.
 
