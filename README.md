@@ -5,7 +5,6 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/sveneschlbeck/lingopy/goto?color=brown)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/lingopy?color=azure)  
 ![GitHub repo size](https://img.shields.io/github/repo-size/sveneschlbeck/lingopy?color=orange)
-![GitHub all releases](https://img.shields.io/github/downloads/sveneschlbeck/lingopy/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sveneschlbeck/lingopy)
 
 # lingopy 
