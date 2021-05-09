@@ -1,10 +1,11 @@
 """This module translates written words typed into the terminal window into a foreign language using the Google translator API"""
 
+# Importing required modules
 from googletrans import Translator, constants
 from pprint import pprint
 import time
 
-
+# Defining banner (to be shown when starting the program)
 banner = r'''
 
 
@@ -58,10 +59,10 @@ Hello! Welcome to the simple instant translator...
 Enter 'q' to quit.
 '''
 
-
+# Printing the banner
 print(banner)
 
-
+# Listing the languages that are supported
 prompt2 = r"""
 Please specify the language you wish to translate to.
 
@@ -104,7 +105,7 @@ Press '103' for Zulu.
 Leave blank for default (English).
 """
 
-
+# Starting main while loop
 while True:
 	print("-----------------------------------------------------------------------------------------------------------------------------")
 	user_text = input("\nPlease type in the text/ message you would like to translate.\nYour entry should look like this: 'This is an example message.' but without quotes.\n")

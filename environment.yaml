@@ -34,12 +34,14 @@ dependencies:
   - snowballstemmer=2.1.0=pyhd3eb1b0_0
   - sphinx=3.5.4=pyhd3eb1b0_0
   - sphinx_rtd_theme=0.4.3=py_0
+  - sphinxcontrib=1.0=py38_1
   - sphinxcontrib-applehelp=1.0.2=pyhd3eb1b0_0
   - sphinxcontrib-devhelp=1.0.2=pyhd3eb1b0_0
   - sphinxcontrib-htmlhelp=1.0.3=pyhd3eb1b0_0
   - sphinxcontrib-jsmath=1.0.1=pyhd3eb1b0_0
   - sphinxcontrib-qthelp=1.0.3=pyhd3eb1b0_0
   - sphinxcontrib-serializinghtml=1.1.4=pyhd3eb1b0_0
+  - sphinxcontrib-websupport=1.2.4=py_0
   - sqlite=3.35.4=h2bbff1b_0
   - urllib3=1.26.4=pyhd3eb1b0_0
   - vc=14.2=h21ff451_1
