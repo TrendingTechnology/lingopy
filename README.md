@@ -162,7 +162,7 @@ https://pypi.org/project/googletrans/ (Google Translator API)
 https://docs.python.org/3/library/time.html (Python time library)  
 https://docs.python.org/3/library/pprint.html (Pprint)  
 
-## Collaboration
+## Contribute to this repository
 
 I am open to new ideas and inspiration. If you are interested in this project and want to contribute or cooperate, write me an e-mail with your GitHub name and the reason for your interest. Following a check, your request will be granted or rejected.
 
