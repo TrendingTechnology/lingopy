@@ -3,9 +3,12 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/sveneschlbeck/lingopy?color=pink)
 ![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/lingopy?color=white)
 ![GitHub search hit counter](https://img.shields.io/github/search/sveneschlbeck/lingopy/goto?color=brown)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/lingopy?color=azure)  
+![GitHub repo size](https://img.shields.io/github/repo-size/sveneschlbeck/lingopy?color=orange)
+![GitHub all releases](https://img.shields.io/github/downloads/sveneschlbeck/lingopy/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/sveneschlbeck/lingopy)
 
-
-# LINGOPY 
+# lingopy 
 
 Welcome to lingopy, the quick and easy way to translate text or audio files into a foreign language. If you would like to transform a recording of a speech you gave into a different language or always wanted to translate a whole text file, then this project may help you out!
 
