@@ -12,7 +12,7 @@ I appreciate your ideas and your input! I try to make contributing to this proje
 
 I use GitHub to host code, to track issues and feature requests, as well as accept pull requests.
 
-## I Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
+## I use [Github Flow](https://guides.github.com/introduction/flow/index.html), so all code changes happen through pull requests
 Pull requests are the best way to propose changes to the codebase (I use [Github Flow](https://guides.github.com/introduction/flow/index.html)). I actively welcome your pull requests:
 
 1. Fork the repo and create your branch from `master`.
