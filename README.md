@@ -1,4 +1,6 @@
-# lingopy
+[![Active Development](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d)
+
+# LINGOPY 
 
 Welcome to lingopy, the quick and easy way to translate text or audio files into a foreign language. If you would like to transform a recording of a speech you gave into a different language or always wanted to translate a whole text file, then this project may help you out!
 
@@ -18,10 +20,109 @@ The same approach is required if you want your translations to be read out loudl
 Note that the software is only applicable to supported languages. Translating unsopported languages with this API can cause wrong and unintentional translations.  
 
 Currently supported languages include:  
-- English  
+- English
 - French
 - German
 - Italian
+- Afrikaans
+- Albanian
+- Amharic
+- Arabic
+- Armenian
+- Azerbaijani
+- Basque
+- Belarusian
+- Bengali
+- Bosnian
+- Bulgarian
+- Catalan
+- Cebuano
+- Chichewa
+- Chinese (Han Yu)
+- Corsican
+- Croatian
+- Chinese (traditional)
+- Czech
+- Danish
+- Dutch
+- Esperanto
+- Estonian
+- Filipino
+- Finnish
+- Frisian
+- Galician
+- Georgian
+- Greek
+- Gujarati
+- Hausa
+- Hawaiian
+- Haitian creole
+- Hebrew
+- Hindi
+- Hmong
+- Hungarian
+- Icelandic
+- Igbo
+- Indonesian
+- Irish
+- Japanese
+- Javanese
+- Kannada
+- Kazakh
+- Khmer
+- Korean
+- Kurdish (Kurmanji)
+- Kyrgyz
+- Lao
+- Latin
+- Latvian
+- Lithuanian
+- Luxembourgish
+- Macedonian
+- Malagasy
+- Malay
+- Malayalam
+- Maltese
+- Maori
+- Marathi
+- Mongolian
+- Myanmar (Burmese)
+- Nepali
+- Norwegian
+- Pashto
+- Persian
+- Polish
+- Portuguese
+- Samoan
+- Serbian
+- Scots gaelic
+- Sesotho
+- Shona
+- Sindhi
+- Sinhala
+- Slovak
+- Slovenian
+- Somali
+- Spanish
+- Sundanese
+- Swahili
+- Swedish
+- Tajik
+- Tamil
+- Telugu
+- Thai
+- Turkish
+- Ukrainian
+- Urdu
+- Uzbek
+- Vietnamese
+- Welsh
+- Xhosa
+- Yiddish
+- Yoruba
+- Zulu
+
+Note: If your terminal output is not showing all unicode symbols (e.g. Arabic letters or Chinese signs), choose a different font for the terminal, I recommend 'SimSun-ExtB'.
 
 ## Controls
 
@@ -62,6 +163,10 @@ https://readthedocs.org/ (Read the Docs)
 https://pypi.org/project/googletrans/ (Google Translator API)  
 https://docs.python.org/3/library/time.html (Python time library)  
 https://docs.python.org/3/library/pprint.html (Pprint)  
+
+## Contribute to this repository
+
+I am open to new ideas and inspiration. If you are interested in this project and want to contribute or cooperate, write me an e-mail with your GitHub name and the reason for your interest. Following a check, your request will be granted or rejected.
 
 ## Contact
 
