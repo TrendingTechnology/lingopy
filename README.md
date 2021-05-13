@@ -184,7 +184,7 @@ n
 If you would like to translate audio books, YouTube videos or Zoom meetings, check out my project `A2T_converter` to first transcribe them into text files. These text files can then be translated by the software provided in this repository.  
 The same approach is required if you want your translations to be read out loudly. Translate them using this project and then use the `text_2_speech.py` module from the repository `A2T_converter` (https://github.com/sveneschlbeck/A2T_converter).
 
-## Languages
+## Languages :it:
   
 Note that the software is only applicable to supported languages. Translating unsopported languages with this API can cause wrong and unintentional translations.  
 
@@ -293,14 +293,14 @@ Currently supported languages include:
 
 Note: If your terminal output is not showing all unicode symbols (e.g. Arabic letters or Chinese signs), choose a different font for the terminal, I recommend `SimSun-ExtB`.
 
-## Controls
+## Controls :arrow_down:
 
 The program is very intuitive. Just follow the command line instructions and you'll be fine.  
 To quit the program at any time, press <kbd>Q</kbd> whenever a question is asked or click on the red `X` in the upper right terminal window corner.  
 If asked a question, reply by either pressing <kbd>Y</kbd> for 'yes', <kbd>N</kbd> for 'no', or <kbd>Q</kbd> to quit the program.  
 To confirm the given answer, press <kbd>&#9166;</kbd>.  
 
-## Hardware & Software Requirements
+## Hardware & Software Requirements :computer:
 
 This program can be run without much computing power. It can be executed on any modern device using Microsoft's Windows operating system. Other OS may work but are not specifically supported.  
 lingopy is written in python and currently only available in the form of multiple python modules. Therefore, you need to download python in order to execute the program files (`.py` files). The required storage capacity depends on the user's behavior. It can range from a few KB when only translating short text files to multiple MB/GB when translating books or webpages.  
@@ -328,7 +328,7 @@ You can also build a conda environment from a `.yaml` file. In order to do this,
 conda env create --name myenv --f environment.yaml
 ```
 
-## Code Documentation
+## Code Documentation  :blue_book:
 
 The documentation for this project can be found under `docs/build/html/index.html`. Navigate to the file on your local machine and open it in a web browser.
 
@@ -337,7 +337,7 @@ The documentation for this project can be found under `docs/build/html/index.htm
 All directories and files in this repository serve a distinct purpose, e.g. containing meta data. Deleting one or more of these directories or files in them can cause programs to throw errors and to stop working. **So, don't delete meta data** :exclamation:  
 Since most temporary data only exist for a short time and are required for few internal operations, they are overwritten in each program cycle, meaning that no additional storage space is required on your device.
 
-## Resources & Links
+## Resources & Links :information_source:
 
 https://www.python.org/ (Python)  
 https://www.anaconda.com/ (Anaconda)  
@@ -353,5 +353,5 @@ https://docs.python.org/3/library/pprint.html (Pprint)
 
 ## Contact
 
-You have questions about the project or want to report a bug or feedback in general?  
-Open a new issue or contact me directly via sven.eschlbeck@t-online.de
+You have questions  :grey_question: about the project or want to report a bug :beetle: or feedback in general?  
+Open a new issue :triangular_flag_on_post: or contact me directly via sven.eschlbeck@t-online.de
