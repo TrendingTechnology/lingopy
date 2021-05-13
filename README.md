@@ -13,14 +13,14 @@ Welcome to lingopy, the quick and easy way to translate text or audio files into
 
 ## Translator types
 
-- terminal input -> convert texts or messages by just typing them into the terminal window
-- text files -> choose a text file stored on your device to translate it
-- self recorded speeches -> translate speeches recorded with your microphone into a foreign language
+- `translator.py` -> convert texts or messages by just typing them into the terminal window
+- `text_file_translator.py` -> choose a text file stored on your device to translate it
+- `spoken_word_translator.py` -> translate speeches recorded with your microphone into a foreign language
 
 ## Project compatibility & Expansion
 
-If you would like to translate audio books, YouTube videos or Zoom meetings, check out my project 'A2T_converter' to first transcribe them into text files. These text files can then be translated by the software provided in this repository.  
-The same approach is required if you want your translations to be read out loudly. Translate them using this project and then use the 'text_2_speech' module from the repository 'A2T_converter'.
+If you would like to translate audio books, YouTube videos or Zoom meetings, check out my project `A2T_converter` to first transcribe them into text files. These text files can then be translated by the software provided in this repository.  
+The same approach is required if you want your translations to be read out loudly. Translate them using this project and then use the `text_2_speech.py` module from the repository `A2T_converter` (https://github.com/sveneschlbeck/A2T_converter).
 
 ## Languages
   
@@ -129,7 +129,7 @@ Currently supported languages include:
 - Yoruba
 - Zulu
 
-Note: If your terminal output is not showing all unicode symbols (e.g. Arabic letters or Chinese signs), choose a different font for the terminal, I recommend 'SimSun-ExtB'.
+Note: If your terminal output is not showing all unicode symbols (e.g. Arabic letters or Chinese signs), choose a different font for the terminal, I recommend `SimSun-ExtB`.
 
 ## Controls
 
@@ -141,16 +141,16 @@ To confirm the given answer, press <kbd>&#9166;</kbd>.
 ## Hardware & Software Requirements
 
 This program can be run without much computing power. It can be executed on any modern device using Microsoft's Windows operating system. Other OS may work but are not specifically supported.  
-lingopy is written in python and currently only available in the form of multiple python modules. Therefore, you need to download python in order to execute the program files (.py files). The required storage capacity depends on the user's behavior. It can range from a few KB when only translating short text files to multiple MB/GB when translating books or webpages.  
-After downloading and storing this repository, open a python terminal window, navigate to the repository directory and type e.g. 'translator.py'. As soon as you hit <kbd>&#9166;</kbd>, the program will start.
+lingopy is written in python and currently only available in the form of multiple python modules. Therefore, you need to download python in order to execute the program files (`.py` files). The required storage capacity depends on the user's behavior. It can range from a few KB when only translating short text files to multiple MB/GB when translating books or webpages.  
+After downloading and storing this repository, open a python terminal window, navigate to the repository directory and type e.g. `translator.py`. As soon as you hit <kbd>&#9166;</kbd>, the program will start.
 
 ## Software dependencies
 
-All required libraries, packages or frameworks can be seen in the environment.yaml file. They need to be installed on your machine (Anaconda environment recommended) in order to execute all programs correctly.
+All required libraries, packages or frameworks can be seen in the `environment.yaml` file. They need to be installed on your machine (Anaconda environment recommended) in order to execute all programs correctly.
 
 ## Code Documentation
 
-The documentation for this project can be found under 'docs/build/html/index.html'. Navigate to the file on your local machine and open it in a web browser.
+The documentation for this project can be found under `docs/build/html/index.html`. Navigate to the file on your local machine and open it in a web browser.
 
 ## Repository structure
 
