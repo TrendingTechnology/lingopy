@@ -146,7 +146,25 @@ After downloading and storing this repository, open a python terminal window, na
 
 ## Software dependencies
 
-All required libraries, packages or frameworks can be seen in the `environment.yaml` file. They need to be installed on your machine (Anaconda environment recommended) in order to execute all programs correctly.
+All required libraries, packages or frameworks can be seen in the `environment.yaml` file. They need to be installed on your machine (Anaconda environment recommended) in order to execute all programs correctly.  
+If you already created a conda environment that you would like to use, you can update it anytime by first activating the environment and then running the `conda env update` command.
+
+```python
+conda activate myenv
+```
+
+```python
+conda env update --name myenv --file environment.yaml
+```
+
+
+Note that this command will only `update` the conda environment. It will no remove already installed packages, especially if they have been installed using `pip install`.  
+
+You can also build a conda environment from a `.yaml` file. In order to do this, type in the following command.
+
+```python
+conda env create --name myenv --f environment.yaml
+```
 
 ## Code Documentation
 
