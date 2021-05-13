@@ -7,7 +7,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/sveneschlbeck/lingopy?color=orange)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sveneschlbeck/lingopy)
 
-# lingopy :speech_balloon:
+# lingopy :speech_balloon: _by Sven Eschlbeck_
 
 Welcome to lingopy, the quick and easy way to translate text or audio files into a foreign language. If you would like to transform a recording of a speech you gave into a different language or always wanted to translate a whole text file, then this project may help you out!
 
