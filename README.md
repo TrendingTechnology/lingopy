@@ -296,7 +296,7 @@ Note: If your terminal output is not showing all unicode symbols (e.g. Arabic le
 ## Controls
 
 The program is very intuitive. Just follow the command line instructions and you'll be fine.  
-To quit the program at any time, press <kbd>Q</kbd> whenever a question is asked or click on the red 'X' in the upper right terminal window corner.  
+To quit the program at any time, press <kbd>Q</kbd> whenever a question is asked or click on the red `X` in the upper right terminal window corner.  
 If asked a question, reply by either pressing <kbd>Y</kbd> for 'yes', <kbd>N</kbd> for 'no', or <kbd>Q</kbd> to quit the program.  
 To confirm the given answer, press <kbd>&#9166;</kbd>.  
 
