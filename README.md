@@ -189,6 +189,7 @@ The same approach is required if you want your translations to be read out loudl
 Note that the software is only applicable to supported languages. Translating unsopported languages with this API can cause wrong and unintentional translations.  
 
 Currently supported languages include:  
+```
 - English
 - French
 - German
@@ -290,6 +291,7 @@ Currently supported languages include:
 - Yiddish
 - Yoruba
 - Zulu
+```
 
 Note: If your terminal output is not showing all unicode symbols (e.g. Arabic letters or Chinese signs), choose a different font for the terminal, I recommend `SimSun-ExtB`.
 
