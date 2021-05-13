@@ -180,7 +180,6 @@ n
 . . .
 . . .
 ```
-<br><br>
  
 ## Project compatibility & Expansion  :heavy_plus_sign:
 
