@@ -94,7 +94,90 @@ New language: de
 ```
 
 - `text_file_translator.py` -> choose a text file stored on your device to translate it
+
+```console
+(translate_env) C:/Users/user_name/dir python text_file_translator.py
+. . .
+. . .
+. . .
+Hello! Welcome to the simple translator for written words...
+
+Enter 'q' to quit.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Please specify the full path to the folder including the file name.
+Your entry should look like this: 'C:/User/.../example.txt' but without quotes.
+C:/Users/user_name/Documents/blabla.txt
+. . .
+. . .
+. . .
+```
+
 - `spoken_word_translator.py` -> translate speeches recorded with your microphone into a foreign language
+
+```console
+(translate_env) C:/Users/user_name/dir python spoken_word_translator.py
+. . .
+. . .
+. . .
+Hello! Welcome to the simple translator for spoken words...
+
+Enter 'q' to quit.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Please specify the spoken language.
+
+Press '1' for French.                   Press '2' for German.                   Press '3' for Italian.
+Press '4' for Russian.                  Press '5' for Dutch.                    Press '6' for Mandarin (Han Yu).
+Press '7' for Spanish.                  Press '8' for Turkish.                  Press '9' for Swedish.
+Press '10' for Portuguese.              Press '11' for Japanese.                Press '12' for Korean.
+Press '13' for Polish.                  Press '14' for Czech.                   Press '15' for Finnish.
+Press '16' for Hebrew.                  Press '17' for Hungarian.               Press '18' for Indonesian.
+Press '19' for Malaysian.               Press '20' for Norwegian.               Press '21' for Romanian.
+Press '22' for Serbian.                 Press '23' for Slovak.                  Press '24' for Afrikaans.
+
+Leave blank for default (English).
+2
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+How long do you plan to speak?
+
+Define a time span.
+Press '1' for 30 seconds.
+Press '2' for 60 seconds.
+Press '3' for 90 seconds.
+Press '4' for 120 seconds.
+Press '5' for 300 seconds.
+
+Leave blank for default (10 seconds).
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Speak now!
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Recognizing voice...
+
+/
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Record:
+
+hallo dies ist ein Test ich teste ob dieses Programm funktioniert
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Do you want to save the original audio you just recorded to a text file? [y/n]
+n
+. . .
+. . .
+. . .
+```
 
 ## Project compatibility & Expansion
 
