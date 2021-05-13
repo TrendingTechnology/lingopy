@@ -92,6 +92,7 @@ New language: de
 . . .
 . . .
 ```
+<br><br>
 
 - `text_file_translator.py` -> choose a text file stored on your device to translate it
 
