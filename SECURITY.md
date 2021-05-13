@@ -6,6 +6,7 @@ Which versions of this project are currently being supported with security updat
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 1.0.5   | YES                |
 | 1.0.4   | YES                |
 | 1.0.3   | NO                 |
 | 1.0.2   | NO                 |
