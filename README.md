@@ -92,7 +92,8 @@ New language: de
 . . .
 . . .
 ```
-
+  
+  
 - `text_file_translator.py` -> choose a text file stored on your device to translate it
 
 ```console
@@ -113,7 +114,8 @@ C:/Users/user_name/Documents/blabla.txt
 . . .
 . . .
 ```
-
+  
+  
 - `spoken_word_translator.py` -> translate speeches recorded with your microphone into a foreign language
 
 ```console
@@ -178,7 +180,7 @@ n
 . . .
 . . .
 ```
-
+  
 ## Project compatibility & Expansion  :heavy_plus_sign:
 
 If you would like to translate audio books, YouTube videos or Zoom meetings, check out my project `A2T_converter` to first transcribe them into text files. These text files can then be translated by the software provided in this repository.  
