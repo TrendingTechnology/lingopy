@@ -14,6 +14,85 @@ Welcome to lingopy, the quick and easy way to translate text or audio files into
 ## Translator types
 
 - `translator.py` -> convert texts or messages by just typing them into the terminal window
+
+```python
+(translate_env) C:/Users/user_name/dir python translator.py
+. . .
+. . .
+. . .
+Hello! Welcome to the simple instant translator...
+
+Enter 'q' to quit.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Please type in the text/ message you would like to translate.
+Your entry should look like this: 'This is an example message.' but without quotes.
+I would like to translate this text.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Please specify the language you wish to translate to.
+
+Press '1' for French.                   Press '2' for German.                   Press '3' for Italian.
+Press '4' for Afrikaans.                Press '5' for Albanian.                 Press '6' for Amharic.
+Press '7' for Arabic.                   Press '8' for Armenian.                 Press '9' for Azerbaijani.
+Press '10' for Basque.                  Press '11' for Belarusian.              Press '12' for Bengali.
+Press '13' for Bosnian.                 Press '14' for Bulgarian.               Press '15' for Catalan.
+Press '16' for Cebuano.                 Press '17' for Chichewa.                Press '18' for Chinese (Han Yu).
+Press '19' for Corsican.                Press '20' for Croatian.                Press '21' for Chinese (traditional).
+Press '22' for Czech.                   Press '23' for Danish.                  Press '24' for Dutch.
+Press '25' for Esperanto.               Press '26' for Estonian.                Press '27' for Filipino.
+Press '28' for Finnish.                 Press '29' for Frisian.                 Press '30' for Galician.
+Press '31' for Georgian.                Press '32' for Greek.                   Press '33' for Gujarati.
+Press '34' for Hausa.                   Press '35' for Hawaiian.                Press '36' for Haitian creole.
+Press '37' for Hebrew.                  Press '38' for Hindi.                   Press '39' for Hmong.
+Press '40' for Hungarian.               Press '41' for Icelandic.               Press '42' for Igbo.
+Press '43' for Indonesian.              Press '44' for Irish.                   Press '45' for Japanese.
+Press '46' for Javanese.                Press '47' for Kannada.                 Press '48' for Kazakh.
+Press '49' for Khmer.                   Press '50' for Korean.                  Press '51' for Kurdish (Kurmanji).
+Press '52' for Kyrgyz.                  Press '53' for Lao.                     Press '54' for Latin.
+Press '55' for Latvian.                 Press '56' for Lithuanian.              Press '57' for Luxembourgish.
+Press '58' for Macedonian.              Press '59' for Malagasy.                Press '60' for Malay.
+Press '61' for Malayalam.               Press '62' for Maltese.                 Press '63' for Maori.
+Press '64' for Marathi.                 Press '65' for Mongolian.               Press '66' for Myanmar (Burmese).
+Press '67' for Nepali.                  Press '68' for Norwegian.               Press '69' for Pashto.
+Press '70' for Persian.                 Press '71' for Polish.                  Press '72' for Portuguese.
+Press '73' for Punjabi.                 Press '74' for Romanian.                Press '75' for Russian.
+Press '76' for Samoan.                  Press '77' for Serbian.                 Press '78' for Scots gaelic.
+Press '79' for Sesotho.                 Press '80' for Shona.                   Press '81' for Sindhi.
+Press '82' for Sinhala.                 Press '83' for Slovak.                  Press '84' for Slovenian.
+Press '85' for Somali.                  Press '86' for Spanish.                 Press '87' for Sundanese.
+Press '88' for Swahili.                 Press '89' for Swedish.                 Press '90' for Tajik.
+Press '91' for Tamil.                   Press '92' for Telugu.                  Press '93' for Thai.
+Press '94' for Turkish.                 Press '95' for Ukrainian.               Press '96' for Urdu.
+Press '97' for Uzbek.                   Press '98' for Vietnamese.              Press '99' for Welsh.
+Press '100' for Xhosa.                  Press '101' for Yiddish.                Press '102' for Yoruba.
+Press '103' for Zulu.
+
+Leave blank for default (English).
+2
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Original text:
+
+I would like to translate this text.
+
+Original language: en
+
+=============================================================================================================================
+Translating...
+=============================================================================================================================
+
+New text: Ich möchte diesen Text übersetzen.
+
+New language: de
+. . .
+. . .
+. . .
+```
+
 - `text_file_translator.py` -> choose a text file stored on your device to translate it
 - `spoken_word_translator.py` -> translate speeches recorded with your microphone into a foreign language
 
