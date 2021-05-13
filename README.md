@@ -91,8 +91,8 @@ New language: de
 . . .
 . . .
 . . .
-```
-  
+```  
+
   
 - `text_file_translator.py` -> choose a text file stored on your device to translate it
 
@@ -113,8 +113,8 @@ C:/Users/user_name/Documents/blabla.txt
 . . .
 . . .
 . . .
-```
-  
+```  
+
   
 - `spoken_word_translator.py` -> translate speeches recorded with your microphone into a foreign language
 
@@ -179,7 +179,7 @@ n
 . . .
 . . .
 . . .
-```
+```  
   
 ## Project compatibility & Expansion  :heavy_plus_sign:
 
