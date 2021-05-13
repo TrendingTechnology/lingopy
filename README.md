@@ -15,7 +15,7 @@ Welcome to lingopy, the quick and easy way to translate text or audio files into
 
 - `translator.py` -> convert texts or messages by just typing them into the terminal window
 
-```python
+```console
 (translate_env) C:/Users/user_name/dir python translator.py
 . . .
 . . .
